@@ -1,2 +1,2 @@
 # CodeClauseInternship_MusicPlayer
-CodeClause Internship Project
+## This is a Internship Project Task of codeclause 
